@@ -1,4 +1,3 @@
-# boletins2021
-Boletins 2021 para o Linktr.ee
+# Boletins IPBA
 
-# Uma forma de criar atalhos para membros fazerem download dos boletins em seus celulares/computadores.
+Repositório criado como uma forma de criar atalhos para membros fazerem download dos boletins em seus celulares/computadores através do site Lintr.ee
